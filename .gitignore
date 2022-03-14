@@ -1,0 +1,13 @@
+#Visual Studio Code
+.vscode
+
+#Input files
+input
+
+#Output files
+*.out
+output
+MDF
+
+#Test files
+test*
