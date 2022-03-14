@@ -1,7 +1,7 @@
 # Finite difference method for 1D heat equation with OMP parallelism
 
 ## RUN
-#### To run use `mpirun -n 6 -f host ./MDF <File>`
+#### To run use `mpirun -n 6 -f host ./MDF <File>` or you can use [`./run.sh`](https://github.com/ga-vo/MDF-HE-MPI/blob/main/run.sh)
 
 File format:
   nrows  
