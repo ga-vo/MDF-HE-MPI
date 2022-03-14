@@ -12,4 +12,4 @@ module load devtools/mpi/openmpi/4.1.2
 module load devtools/gcc/9.2.0
 
 #Ejecuta el programa paralelo
-mpirun  ./MDF
+mpirun  ./MDF ./file_to_run
